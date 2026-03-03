@@ -1,2 +1,1 @@
-# JavaLevelAssignments
-Java Weekly Assignments.. Name: Baradhwaj V.. Reg No: RA2511003010165
+This is Baradhwaj V from D1. Currently enrolled in Btech Cse (1st year) at SRM Institute of Science and Technology. RA2511003010265.
